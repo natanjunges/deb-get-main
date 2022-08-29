@@ -1,0 +1,4 @@
+PPA="ppa:appimagelauncher-team/stable"
+PRETTY_NAME="AppImage Launcher"
+WEBSITE="https://github.com/TheAssassin/AppImageLauncher"
+SUMMARY="A free and open source MIT licensed app that makes your Linux desktop AppImage ready. Integrate AppImages to your application launcher with one click, and manage, update and remove them from there."
