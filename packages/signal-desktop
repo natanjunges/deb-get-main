@@ -1,0 +1,6 @@
+APT_KEY_URL="https://updates.signal.org/desktop/apt/keys.asc"
+APT_LIST_NAME="signal-xenial.list"
+APT_REPO_URL="deb [arch=amd64] https://updates.signal.org/desktop/apt xenial main"
+PRETTY_NAME="Signal"
+WEBSITE="https://signal.org/"
+SUMMARY="Private Messenger."
