@@ -1,0 +1,6 @@
+APT_KEY_URL="https://packages.microsoft.com/keys/microsoft.asc"
+APT_LIST_NAME="microsoft-edge"
+APT_REPO_URL="deb [arch=amd64] https://packages.microsoft.com/repos/edge stable main"
+PRETTY_NAME="Microsoft Edge"
+WEBSITE="https://www.microsoft.com/edge"
+SUMMARY="Fast and secure browser that helps you protect your data and save time and money."
