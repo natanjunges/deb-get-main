@@ -1,0 +1,6 @@
+GPG_KEY_URL="https://raw.githubusercontent.com/retorquere/zotero-deb/master/zotero-archive-keyring.gpg"
+APT_LIST_NAME="zotero"
+APT_REPO_URL="deb [signed-by=/usr/share/keyrings/${APT_LIST_NAME}-archive-keyring.gpg by-hash=force] https://zotero.retorque.re/file/apt-package-archive ./"
+PRETTY_NAME="Zotero"
+WEBSITE="https://www.zotero.org/"
+SUMMARY="A free, easy-to-use tool to help you collect, organize, cite, and share research."

@@ -1,0 +1,7 @@
+ARCHS_SUPPORTED="amd64 arm64 armhf"
+APT_KEY_URL="https://repo.vivaldi.com/stable/linux_signing_key.pub"
+APT_LIST_NAME="vivaldi"
+APT_REPO_URL="deb [arch=${HOST_ARCH}] https://repo.vivaldi.com/stable/deb/ stable main"
+PRETTY_NAME="Vivaldi"
+WEBSITE="https://vivaldi.com/"
+SUMMARY="The most feature-packaged, customisable browser."
